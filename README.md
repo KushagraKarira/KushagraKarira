@@ -8,6 +8,8 @@ Slowly dying with the forward march of time - Github
 
 Lelouch Vi Britannia commands you. All of you... Die! - Discord
 
+It's a cruel and random world, but the chaos is all so beautiful. - Telegram
+
 . . . Just decide which one you like and give me a follow :)
 or PM me if want to be a friend ( Codeword : "I am the person" )
 

@@ -10,8 +10,10 @@ I triend reading credit card and failed, but here's the remains which can dump A
 Lovely cursor icons, these go well with flat-remix
 ### CPP
 The remains of my CS class (12th), atleast you know how a topper codes in TURBO
-### Scripts
-Automating daily tasks
 
-## Graphic Design
-( Moved to GitLab )
+## Fancy Stuff
+![Profile View Counter](https://komarev.com/ghpvc/?username=kushagrakarira)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrakarira)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kushagrakarira&show_icons=true)
